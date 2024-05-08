@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * A DAO is a class that mediates the transformation of data between the format of objects in Java to rows in a
- * database. The methods here are mostly filled out, you will just need to add a SQL statement.
+ * database.
  *
  * We may assume that the database has already created a table named 'Grocery'.
  * It contains a single column, named 'grocery_name' of type varchar(255).
