@@ -4,12 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.Scanner;
-/**
- * There is no need to change anything in this class.
- * It does not affect the outcome of the test cases.
- * You can, however, run this class to play with a CLI menu that interacts with the code you write in
- * GroceryDAO.
- */
+
 public class GroceryMain {
 
     public static void main(String[] args) {
